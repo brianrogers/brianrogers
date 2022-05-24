@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
-- 🌱 I’m currently learning Unreal Engine and C++
+- 🌱 I’m currently learning all things DevOps (Python/Docker/k8s/AWS) and still a little Unreal Engine when I have time.
 
 ## &#x1f4c8; GitHub Stats
 
